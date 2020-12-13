@@ -23,8 +23,6 @@
     "webpack": "^3.5.5"
   },
   "scripts": {
-    "test": "mocha",
-    "start": "serve -s build",
-    "heroku-postbuild": "npm run build"
+    "test": "mocha"
   }
 }
